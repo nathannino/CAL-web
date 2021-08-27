@@ -1,0 +1,7 @@
+When adding a html file, remember to do :
+1) Create a new folder inside /docs/ for it
+2) Move file to new folder
+3) Rename the file to "index.html"
+
+Also, if you are seeing this on a web browser...
+Hi =), you found a secret =D!
